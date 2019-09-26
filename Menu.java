@@ -26,7 +26,7 @@ public class Menu {
 
         Ksiazka[] ksiazka = new Ksiazka[3];
         ksiazka[0] = new Ksiazka("Wypełnienie", "ja", 1998, "NowaEra", "111111111", 5, false);
-        ksiazka[1] = new Ksiazka("kurwy", "ja", 1298, "NowaEra", "111111111", 5, false);
+        ksiazka[1] = new Ksiazka("lolo2", "ja", 1298, "NowaEra", "111111111", 5, false);
         ksiazka[2] = new Ksiazka("lolo3", "ja", 1265, "NowaEra", "111111112", 5, false);
 
 
